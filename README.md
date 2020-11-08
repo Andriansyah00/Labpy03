@@ -50,6 +50,9 @@ print ("selesai")
 
 "input"  : berfungsi untuk mmemasukan data yang akan ditampilkan
 
+"Print" : berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
+
+
 "import" : fungsi lanjut yang dipanggil oleh statement import.
 
 "random" : untuk menentukan suatu pilihan. 
@@ -76,7 +79,7 @@ print ("selesai")
 
 ![image](Picture/olatihan2.jpg)
 
-- Berikut penjelas Latihan2.py
+- Berikut penjelasan Latihan2.py
 
 max=0
 
@@ -128,14 +131,14 @@ Buat program sederhana dengan perulangan,
 
  - lakukan kodingan seperti gambar di bawah ini
 
-![image](Picture/syntaxp3.jpg)
+![image](Picture/syntaxP1.jpg)
 
 - Jika sudah kalian bisa save program kalian dengan tekan **CTRL+S** atau mengklik menu file - save as dan beri nama pada program kalian
 - lalu menjalankan program kalian dengan menekan **f5** atau mengklik menu **RUN**
 - Jika gagal silahkan cek kembali apakah kodingan kalian sudah seperti gambar diatas 👆
 - Dan jika berhasil maka tampilan pada program python anda akan seperti ini 👇
 
-![image](Picture/outputp3.jpg)
+![image](Picture/Op1.jpg)
 
 
 - Berikut penjelasan dari Program1.py
